@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Jack Matos</h1>
+<p align="left">
+  👨‍💻 Software Developer | Backend & Web Enthusiast
+</p>
 
-<!--
-**JackMG25/JackMG25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  Passionate about building efficient and scalable solutions, learning new technologies, and contributing to open-source projects.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🌱 Currently exploring cloud technologies and full-stack development  
+  ⚡ Fun fact: Coffee fuels my coding sessions ☕
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Profile Views](https://komarev.com/ghpvc/?username=JackMG25&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/JackMG25)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green.svg?logo=whatsapp&style=flat-square)](https://wa.me/926172467)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/jackmatos)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=googlesites&style=flat-square)](https://tuportafolio.com)
