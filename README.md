@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Jack Matos</h1>
 <p align="left">
-  👨‍💻 Software Developer | Backend & Web Enthusiast
+  👨‍💻 Software Developer | mobile & Web Enthusiast
 </p>
 
 <p align="left">
